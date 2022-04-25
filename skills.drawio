@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-25T15:28:05.827Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="TQS4fXGV2K3BcgkngjTv" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-25T15:30:11.403Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="bQmQTDwV8ovTInErMBxA" version="17.4.6" type="github">
   <diagram id="kMmrc_pHaWpTOWDPX01H" name="Page-1">
-    <mxGraphModel dx="1447" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1021" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -256,6 +256,12 @@
         </mxCell>
         <mxCell id="ixnwg4KhV-Q-lFp1H0U2-63" value="    Interested" style="swimlane;rounded=0;labelBackgroundColor=none;sketch=0;fontFamily=Verdana;fontSize=17;fontColor=#000000;fillColor=none;align=left;" parent="1" vertex="1">
           <mxGeometry x="800" y="630" width="367" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="bTG7fgVKSW8xWyBYXl-g-21" value="Deploy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#000000;" vertex="1" parent="ixnwg4KhV-Q-lFp1H0U2-63">
+          <mxGeometry x="20" y="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bTG7fgVKSW8xWyBYXl-g-22" value="Operate" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#000000;" vertex="1" parent="ixnwg4KhV-Q-lFp1H0U2-63">
+          <mxGeometry x="20" y="70" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
