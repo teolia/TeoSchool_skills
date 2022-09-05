@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-05T10:06:54.427Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="_bcpAmUoxIQMqwDIaV72" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-05T10:07:37.919Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="ysmxnKcdFm0rCkLnLEwo" version="20.2.8" type="github">
   <diagram id="kMmrc_pHaWpTOWDPX01H" name="Page-1">
-    <mxGraphModel dx="1191" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="951" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -218,14 +218,14 @@
             <mxRectangle x="800" y="200" width="180" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QHwQOy8qqyR4dbRJE5bw-2" value="AWS&lt;br&gt;Azure&lt;br&gt;Azure DevOps&lt;br&gt;Docker&lt;br&gt;Jenkins&lt;br&gt;Kubernetes&lt;br&gt;Ansible&lt;br&gt;Git&lt;br&gt;Nexus (artifactory)&lt;br&gt;Jira/Confluence&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ixnwg4KhV-Q-lFp1H0U2-62">
+        <mxCell id="QHwQOy8qqyR4dbRJE5bw-2" value="AWS&lt;br style=&quot;font-size: 19px;&quot;&gt;Azure&lt;br style=&quot;font-size: 19px;&quot;&gt;Azure DevOps&lt;br style=&quot;font-size: 19px;&quot;&gt;Docker&lt;br style=&quot;font-size: 19px;&quot;&gt;Jenkins&lt;br style=&quot;font-size: 19px;&quot;&gt;Kubernetes&lt;br style=&quot;font-size: 19px;&quot;&gt;Ansible&lt;br style=&quot;font-size: 19px;&quot;&gt;Git&lt;br style=&quot;font-size: 19px;&quot;&gt;Nexus (artifactory)&lt;br style=&quot;font-size: 19px;&quot;&gt;Jira/Confluence&lt;br style=&quot;font-size: 19px;&quot;&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="ixnwg4KhV-Q-lFp1H0U2-62">
           <mxGeometry x="10" y="40" width="320" height="310" as="geometry" />
         </mxCell>
         <mxCell id="ixnwg4KhV-Q-lFp1H0U2-63" value="    Interested" style="swimlane;rounded=0;labelBackgroundColor=none;sketch=0;fontFamily=Verdana;fontSize=17;fontColor=#000000;fillColor=none;align=left;" parent="1" vertex="1">
           <mxGeometry x="800" y="630" width="367" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="QHwQOy8qqyR4dbRJE5bw-5" value="Deploy&lt;br&gt;Operate&lt;br&gt;Measure" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ixnwg4KhV-Q-lFp1H0U2-63">
-          <mxGeometry x="30" y="30" width="180" height="90" as="geometry" />
+        <mxCell id="QHwQOy8qqyR4dbRJE5bw-5" value="Deploy&lt;br style=&quot;font-size: 17px;&quot;&gt;Operate&lt;br style=&quot;font-size: 17px;&quot;&gt;Measure" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="ixnwg4KhV-Q-lFp1H0U2-63">
+          <mxGeometry x="10" y="30" width="180" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
