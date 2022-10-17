@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-17T13:51:44.395Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="h_gVQoVGFijWNjxZuOIV" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-17T13:55:56.362Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="JQ5yewy_ct3BxvMBUXzG" version="20.4.1" type="github">
   <diagram id="kMmrc_pHaWpTOWDPX01H" name="Page-1">
-    <mxGraphModel dx="1477" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1157" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -218,8 +218,14 @@
             <mxRectangle x="800" y="200" width="180" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="a7CTjH1-IkWllSU3Nlo1-3" value="&lt;div style=&quot;font-size: 23px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 23px;&quot;&gt;Linux&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 23px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 23px;&quot;&gt;Kubernetes&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 23px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 23px;&quot;&gt;Jenkins&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 23px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 23px;&quot;&gt;Gihub (Actions)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 23px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 23px;&quot;&gt;Gitlab&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 23px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 23px;&quot;&gt;Docker&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 23px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 23px;&quot;&gt;AWS&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 23px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 23px;&quot;&gt;Azure&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 23px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 23px;&quot;&gt;NGNIX/Apache&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;" vertex="1" parent="ixnwg4KhV-Q-lFp1H0U2-62">
+          <mxGeometry x="10" y="47" width="270" height="303" as="geometry" />
+        </mxCell>
         <mxCell id="ixnwg4KhV-Q-lFp1H0U2-63" value="    Interested" style="swimlane;rounded=0;labelBackgroundColor=none;sketch=0;fontFamily=Verdana;fontSize=17;fontColor=#000000;fillColor=none;align=left;" parent="1" vertex="1">
           <mxGeometry x="800" y="630" width="367" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="a7CTjH1-IkWllSU3Nlo1-4" value="Build&lt;br&gt;Deploy&lt;br&gt;Operate" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;" vertex="1" parent="ixnwg4KhV-Q-lFp1H0U2-63">
+          <mxGeometry x="10" y="44" width="270" height="96" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
