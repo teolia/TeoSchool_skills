@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-17T13:26:54.711Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="78LBT6-4W8Q6s8IKkrbq" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-17T13:40:09.750Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="EMG-ajiws3jDl9DMOvBh" version="20.4.1" type="github">
   <diagram id="kMmrc_pHaWpTOWDPX01H" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -132,18 +132,18 @@
         <mxCell id="ixnwg4KhV-Q-lFp1H0U2-44" value="System" style="text;strokeColor=none;fillColor=#007FFF;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Courier New;gradientColor=#60A917;" parent="ixnwg4KhV-Q-lFp1H0U2-42" vertex="1">
           <mxGeometry y="60" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ixnwg4KhV-Q-lFp1H0U2-45" value="Docker" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Courier New;" parent="ixnwg4KhV-Q-lFp1H0U2-42" vertex="1">
+        <mxCell id="ixnwg4KhV-Q-lFp1H0U2-45" value="Docker" style="text;strokeColor=none;fillColor=#007FFF;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Courier New;" parent="ixnwg4KhV-Q-lFp1H0U2-42" vertex="1">
           <mxGeometry y="90" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9jRTiIgXsqKNJMJhj4nr-9" value="Ansible" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Courier New;" parent="ixnwg4KhV-Q-lFp1H0U2-42" vertex="1">
+        <mxCell id="9jRTiIgXsqKNJMJhj4nr-9" value="Configuration des hôtes&#xa;(ansible)" style="text;strokeColor=none;fillColor=#D80073;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Courier New;gradientColor=#007FFF;" parent="ixnwg4KhV-Q-lFp1H0U2-42" vertex="1">
           <mxGeometry y="120" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9jRTiIgXsqKNJMJhj4nr-10" value="Orchestration" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Courier New;" parent="ixnwg4KhV-Q-lFp1H0U2-42" vertex="1">
+        <mxCell id="9jRTiIgXsqKNJMJhj4nr-10" value="Orchestration" style="text;strokeColor=none;fillColor=#007FFF;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Courier New;gradientColor=#60A917;" parent="ixnwg4KhV-Q-lFp1H0U2-42" vertex="1">
           <mxGeometry y="150" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ixnwg4KhV-Q-lFp1H0U2-46" value="OPERATE" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontFamily=Comic Sans MS;rounded=1;arcSize=17;labelBackgroundColor=none;fillColor=#EBEBEB;fontSize=16;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="266" y="584" width="170" height="30" as="geometry">
-            <mxRectangle x="266" y="584" width="170" height="150" as="alternateBounds" />
+        <mxCell id="ixnwg4KhV-Q-lFp1H0U2-46" value="OPERATE" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontFamily=Comic Sans MS;rounded=1;arcSize=17;labelBackgroundColor=none;fillColor=#EBEBEB;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="266" y="584" width="170" height="150" as="geometry">
+            <mxRectangle x="266" y="584" width="170" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ixnwg4KhV-Q-lFp1H0U2-47" value="VM/Hypervisor" style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Courier New;" parent="ixnwg4KhV-Q-lFp1H0U2-46" vertex="1">
