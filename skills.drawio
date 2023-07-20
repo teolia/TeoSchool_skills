@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-20T15:44:10.492Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="blsZhjDHSBQBogqni4hl" version="21.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-20T15:50:07.230Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="x-X6gfd8frSF5OmqPgKK" version="21.6.3" type="github">
   <diagram id="kMmrc_pHaWpTOWDPX01H" name="Page-1">
-    <mxGraphModel dx="662" dy="337" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -218,8 +218,14 @@
             <mxRectangle x="800" y="200" width="180" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="OtNOQ6ERlaci3hUfrl-G-3" value="Jenkins&lt;br&gt;&lt;br&gt;Docker&lt;br&gt;&lt;br&gt;Ansible&lt;br&gt;&lt;br&gt;Linux/Unix&lt;br&gt;&lt;br&gt;Kubernetes&lt;br&gt;&lt;br&gt;ELK&lt;br&gt;&lt;br&gt;Azure&lt;br&gt;&lt;br&gt;&lt;b&gt;SECURITY&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ixnwg4KhV-Q-lFp1H0U2-62">
+          <mxGeometry x="20" y="43" width="80" height="230" as="geometry" />
+        </mxCell>
         <mxCell id="ixnwg4KhV-Q-lFp1H0U2-63" value="    Interested" style="swimlane;rounded=0;labelBackgroundColor=none;sketch=0;fontFamily=Verdana;fontSize=17;fontColor=#000000;fillColor=none;align=left;" parent="1" vertex="1">
           <mxGeometry x="800" y="630" width="367" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="OtNOQ6ERlaci3hUfrl-G-4" value="Terraform&lt;br&gt;&lt;br&gt;Python&lt;br&gt;&lt;br&gt;Kubernetes&lt;br&gt;&lt;br&gt;Rôles d&#39;ansible&lt;br&gt;&lt;br&gt;Openshift&lt;br&gt;&lt;br&gt;GitOps&lt;br&gt;&lt;br&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ixnwg4KhV-Q-lFp1H0U2-63">
+          <mxGeometry x="10" y="24" width="100" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
